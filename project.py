@@ -5,3 +5,5 @@ for x in range(0, 10):
     x = arr1[x]+arr2[x]
     arr3.append(x)
 print(arr3)
+arrlen = len(arr3)
+print(arrlen)
